@@ -1,0 +1,91 @@
+{
+    "status": true,
+    "error": 200,
+    "message": "Sound List",
+    "data": [
+        {
+            "Sound_Id": 13,
+            "Application_Id": 5,
+            "Sound_Category_Id": 4,
+            "Sound_Name": "SUNO GANPATI BAPPA MORYA",
+            "Sound_Url": "5f078e956479759a8aeabab62481b030.mp3",
+            "Sound_Size": 1165193,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Ganesha/5f078e956479759a8aeabab62481b030.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:22:14",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:22:14",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 14,
+            "Application_Id": 5,
+            "Sound_Category_Id": 4,
+            "Sound_Name": "Sadda Dil Vi Tu",
+            "Sound_Url": "c6f96babfad03dcd41a16324947d95a6.mp3",
+            "Sound_Size": 1197495,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Ganesha/c6f96babfad03dcd41a16324947d95a6.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:22:34",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:22:34",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 15,
+            "Application_Id": 5,
+            "Sound_Category_Id": 4,
+            "Sound_Name": "Hare Maha Deva Na Beta Ganesh",
+            "Sound_Url": "d38c3b2487bef659b83bea4ea1a836d9.mp3",
+            "Sound_Size": 1200719,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Ganesha/d38c3b2487bef659b83bea4ea1a836d9.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:22:56",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:22:56",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 16,
+            "Application_Id": 5,
+            "Sound_Category_Id": 4,
+            "Sound_Name": "Jay Dev Jay Dev Aarthi",
+            "Sound_Url": "69caa439abbdea1fc2b4c9e8b73a4b1d.mp3",
+            "Sound_Size": 1177732,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Ganesha/69caa439abbdea1fc2b4c9e8b73a4b1d.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:23:15",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:23:15",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 17,
+            "Application_Id": 5,
+            "Sound_Category_Id": 4,
+            "Sound_Name": "Deva Shree Ganesha",
+            "Sound_Url": "b8cea7c511e432f16c1da917bb09c9be.mp3",
+            "Sound_Size": 1177732,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Ganesha/b8cea7c511e432f16c1da917bb09c9be.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:23:31",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:23:31",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 18,
+            "Application_Id": 5,
+            "Sound_Category_Id": 4,
+            "Sound_Name": "Ganpati Bappa",
+            "Sound_Url": "07576e31fe66faf8a7ca7c64a3c1af7a.mp3",
+            "Sound_Size": 1125487,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Ganesha/07576e31fe66faf8a7ca7c64a3c1af7a.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:24:13",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:24:13",
+            "UpdatedBy": 9
+        }
+    ]
+}

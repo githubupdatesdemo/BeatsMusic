@@ -1,0 +1,150 @@
+{
+    "status": true,
+    "error": 200,
+    "message": "Sound Category List",
+    "data": [
+        {
+            "Sound_Category_Id": 1,
+            "Category_Name": "Mahadev",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Mahadev/Mahadev.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:15:26",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:19:17",
+            "UpdatedBy": null
+        },
+        {
+            "Sound_Category_Id": 2,
+            "Category_Name": "Love",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Love/Love.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:15:35",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:19:22",
+            "UpdatedBy": null
+        },
+        {
+            "Sound_Category_Id": 3,
+            "Category_Name": "Krishna",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Krishna/Krishna.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:19:30",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:19:30",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Category_Id": 4,
+            "Category_Name": "Ganesha",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Ganesha/Ganesha.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:21:49",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:21:49",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Category_Id": 5,
+            "Category_Name": "Birthday",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Birthday/Birthday.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-03 12:47:26",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-03 12:47:26",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Category_Id": 6,
+            "Category_Name": "Friendship",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Friendship/Friendship.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-18 15:27:43",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-18 15:27:43",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Category_Id": 7,
+            "Category_Name": "Telugu",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Telugu/Telugu.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-18 18:56:58",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-18 18:56:58",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Category_Id": 8,
+            "Category_Name": "kannada",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/kannada/kannada.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-19 12:11:17",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-19 12:11:17",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Category_Id": 9,
+            "Category_Name": "Tamil",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Tamil/Tamil.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-19 12:18:02",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-19 12:18:02",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Category_Id": 10,
+            "Category_Name": "Gujarati",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Gujarati/Gujarati.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-19 16:27:20",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-19 16:27:20",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Category_Id": 11,
+            "Category_Name": "Christian",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Christian/Christian.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-19 18:12:41",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-19 18:12:41",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Category_Id": 12,
+            "Category_Name": "Malayalam",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Malayalam/Malayalam.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-20 15:41:03",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-20 15:41:03",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Category_Id": 13,
+            "Category_Name": "Marathi",
+			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Marathi/Marathi.txt",
+            "Application_id": 5,
+            "Status": "1",
+            "CreatedAt": "2019-09-20 16:30:08",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-20 16:30:08",
+            "UpdatedBy": 9
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "status": true,
+    "error": 200,
+    "message": "Sound List",
+    "data": [
+        {
+            "Sound_Id": 8,
+            "Application_Id": 5,
+            "Sound_Category_Id": 3,
+            "Sound_Name": "kanya morli vada",
+            "Sound_Url": "336d5b2945316364af64794421012e00.mp3",
+            "Sound_Size": 1125487,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Krishna/336d5b2945316364af64794421012e00.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:19:53",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:19:53",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 9,
+            "Application_Id": 5,
+            "Sound_Category_Id": 3,
+            "Sound_Name": "nand gera a nand bhayo",
+            "Sound_Url": "4ced86a0c83d0ba3febd979a3cafe0a1.mp3",
+            "Sound_Size": 940540,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Krishna/4ced86a0c83d0ba3febd979a3cafe0a1.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:20:09",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:20:09",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 10,
+            "Application_Id": 5,
+            "Sound_Category_Id": 3,
+            "Sound_Name": "pida jabla vado",
+            "Sound_Url": "377645cc47896cadceb6e2a8e761db29.mp3",
+            "Sound_Size": 1082646,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Krishna/377645cc47896cadceb6e2a8e761db29.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:20:21",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:20:21",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 11,
+            "Application_Id": 5,
+            "Sound_Category_Id": 3,
+            "Sound_Name": "RADHA NE SHYAM MALI JASHE",
+            "Sound_Url": "7f1e4a63c1d318688287309264cba65c.mp3",
+            "Sound_Size": 730103,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Krishna/7f1e4a63c1d318688287309264cba65c.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:20:43",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:20:43",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 12,
+            "Application_Id": 5,
+            "Sound_Category_Id": 3,
+            "Sound_Name": "tali pado to mara ram ni",
+            "Sound_Url": "fc2eb25080f48d6202dcb213f8030008.mp3",
+            "Sound_Size": 1072197,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Krishna/fc2eb25080f48d6202dcb213f8030008.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-02 16:21:07",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-02 16:21:07",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 190,
+            "Application_Id": 5,
+            "Sound_Category_Id": 3,
+            "Sound_Name": "Gori Radha Ne Kalo Kaan",
+            "Sound_Url": "fd704ca7ba341c3ff858f63376977f18.mp3",
+            "Sound_Size": 1122352,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Krishna/fd704ca7ba341c3ff858f63376977f18.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-18 16:02:32",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-18 16:02:32",
+            "UpdatedBy": 9
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "status": true,
+    "error": 200,
+    "message": "Sound List",
+    "data": [
+        {
+            "Sound_Id": 191,
+            "Application_Id": 5,
+            "Sound_Category_Id": 7,
+            "Sound_Name": "Deepali (Rebel)",
+            "Sound_Url": "f82febe97848f0feb896c75d3bd1e93d.mp3",
+            "Sound_Size": 1187136,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Telugu/f82febe97848f0feb896c75d3bd1e93d.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-18 18:57:36",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-18 18:57:36",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 192,
+            "Application_Id": 5,
+            "Sound_Category_Id": 7,
+            "Sound_Name": "Keka. (Rebel)",
+            "Sound_Url": "4e2181dd4608c5260c857027d70cfb62.mp3",
+            "Sound_Size": 1189226,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Telugu/4e2181dd4608c5260c857027d70cfb62.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-18 18:58:05",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-18 18:58:05",
+            "UpdatedBy": 9
+        },
+        {
+            "Sound_Id": 193,
+            "Application_Id": 5,
+            "Sound_Category_Id": 7,
+            "Sound_Name": "Orinayano (Rebel)",
+            "Sound_Url": "c7514d39016beff4812ae5cf131409d0.mp3",
+            "Sound_Size": 1104589,
+            "Sound_full_url": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Telugu/c7514d39016beff4812ae5cf131409d0.mp3",
+            "Status": "1",
+            "CreatedAt": "2019-09-18 18:58:27",
+            "CreatedBy": 9,
+            "UpdatedAt": "2019-09-18 18:58:27",
+            "UpdatedBy": 9
+        }
+    ]
+}
