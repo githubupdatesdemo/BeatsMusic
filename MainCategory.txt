@@ -6,7 +6,7 @@
         {
             "Sound_Category_Id": 1,
             "Category_Name": "Mahadev",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Mahadev/Mahadev.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Mahadev/Mahadev.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-02 16:15:26",
@@ -17,7 +17,7 @@
         {
             "Sound_Category_Id": 2,
             "Category_Name": "Love",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Love/Love.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Love/Love.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-02 16:15:35",
@@ -28,7 +28,7 @@
         {
             "Sound_Category_Id": 3,
             "Category_Name": "Krishna",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Krishna/Krishna.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Krishna/Krishna.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-02 16:19:30",
@@ -39,7 +39,7 @@
         {
             "Sound_Category_Id": 4,
             "Category_Name": "Ganesha",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Ganesha/Ganesha.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Ganesha/Ganesha.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-02 16:21:49",
@@ -50,7 +50,7 @@
         {
             "Sound_Category_Id": 5,
             "Category_Name": "Birthday",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Birthday/Birthday.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Birthday/Birthday.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-03 12:47:26",
@@ -61,7 +61,7 @@
         {
             "Sound_Category_Id": 6,
             "Category_Name": "Friendship",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Friendship/Friendship.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Friendship/Friendship.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-18 15:27:43",
@@ -72,7 +72,7 @@
         {
             "Sound_Category_Id": 7,
             "Category_Name": "Telugu",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Telugu/Telugu.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Telugu/Telugu.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-18 18:56:58",
@@ -83,7 +83,7 @@
         {
             "Sound_Category_Id": 8,
             "Category_Name": "kannada",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/kannada/kannada.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/kannada/kannada.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-19 12:11:17",
@@ -94,7 +94,7 @@
         {
             "Sound_Category_Id": 9,
             "Category_Name": "Tamil",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Tamil/Tamil.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Tamil/Tamil.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-19 12:18:02",
@@ -105,7 +105,7 @@
         {
             "Sound_Category_Id": 10,
             "Category_Name": "Gujarati",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Gujarati/Gujarati.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Gujarati/Gujarati.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-19 16:27:20",
@@ -116,7 +116,7 @@
         {
             "Sound_Category_Id": 11,
             "Category_Name": "Christian",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Christian/Christian.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Christian/Christian.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-19 18:12:41",
@@ -127,7 +127,7 @@
         {
             "Sound_Category_Id": 12,
             "Category_Name": "Malayalam",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Malayalam/Malayalam.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Malayalam/Malayalam.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-20 15:41:03",
@@ -138,7 +138,7 @@
         {
             "Sound_Category_Id": 13,
             "Category_Name": "Marathi",
-			"Category_Link": "https://raw.githubusercontent.com/PKMasterBundle/MBitMusic/master/Marathi/Marathi.txt",
+			"Category_Link": "https://raw.githubusercontent.com/githubupdatesdemo/BeatsMusic/master/Marathi/Marathi.txt",
             "Application_id": 5,
             "Status": "1",
             "CreatedAt": "2019-09-20 16:30:08",
