@@ -2,10 +2,10 @@
     "status": false,
     "versioncode": 11,
 	"url": "https://beatsdata.s3.ap-south-1.amazonaws",
-	"urlSmallImageTo": "https://beatsdata.s3.ap-south-1.amazonaws",
-	"urlSmallImageFrom": "https://beatsdata.s3.ap-south-1.amazonaws",
-	"urlBigImageTo": "https://beatsdata.s3.ap-south-1.amazonaws",
-	"urlBigImageFrom": "https://beatsdata.s3.ap-south-1.amazonaws",
-	"urlSoundTo": "https://beatsdata.s3.ap-south-1.amazonaws",
-	"urlSounfFrom": "https://beatsdata.s3.ap-south-1.amazonaws"
+	"urlSmallImageTo": "https://pkmaster.s3.ap-south-1.amazonaws.com/fullscreen/thumnail_small",
+	"urlSmallImageFrom": "https://trendinganimations.com/uploads/small_theme_image",
+	"urlBigImageTo": "https://pkmaster.s3.ap-south-1.amazonaws.com/fullscreen/thumnail_big",
+	"urlBigImageFrom": "https://trendinganimations.com/uploads/theme_image",
+	"urlSoundTo": "https://pkmaster.s3.ap-south-1.amazonaws.com/fullscreen/sound",
+	"urlSounfFrom": "https://trendinganimations.com/uploads/animation_sound_file"
 }
