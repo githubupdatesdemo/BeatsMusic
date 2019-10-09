@@ -1,5 +1,11 @@
 {
     "status": false,
     "versioncode": 11,
-	"url": "https://beatsdata.s3.ap-south-1.amazonaws"
+	"url": "https://beatsdata.s3.ap-south-1.amazonaws",
+	"urlSmallImageTo": "https://beatsdata.s3.ap-south-1.amazonaws",
+	"urlSmallImageFrom": "https://beatsdata.s3.ap-south-1.amazonaws",
+	"urlBigImageTo": "https://beatsdata.s3.ap-south-1.amazonaws",
+	"urlBigImageFrom": "https://beatsdata.s3.ap-south-1.amazonaws",
+	"urlSoundTo": "https://beatsdata.s3.ap-south-1.amazonaws",
+	"urlSounfFrom": "https://beatsdata.s3.ap-south-1.amazonaws"
 }
