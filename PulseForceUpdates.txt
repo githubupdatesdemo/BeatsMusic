@@ -1,4 +1,11 @@
 {
-    "status": false,
-    "versioncode": 11
+    "status": true,
+    "versioncode": 14,
+	"url": "https://beatsdata.s3.ap-south-1.amazonaws",
+	"urlSmallImageTo": "https://pkmaster.s3.ap-south-1.amazonaws.com/fullscreen/thumnail_small",
+	"urlSmallImageFrom": "https://trendinganimations.com/uploads/small_theme_image",
+	"urlBigImageTo": "https://pkmaster.s3.ap-south-1.amazonaws.com/fullscreen/thumnail_big",
+	"urlBigImageFrom": "https://trendinganimations.com/uploads/theme_image",
+	"urlSoundTo": "https://pkmaster.s3.ap-south-1.amazonaws.com/fullscreen/sound",
+	"urlSounfFrom": "https://trendinganimations.com/uploads/animation_sound_file"
 }
